@@ -1,0 +1,40 @@
+Utils
+-----
+
+
+O que Ž isso?
+-------------
+Este projeto reune classes utilitarias.
+Uma classe utilitaria agrupa metodos estaticos com o objetivo de facilitar o uso de um determinado tema.	
+
+
+Documentacao
+------------
+Os temas abordados por esta versao sao:
+Colecao - por meio da classe CollectionUtil e possivel manipular colecoes. Converter uma serie de argumentos em uma lista e um exemplo de metodo dessa classe. 
+Reflexao - por meio da classe ReflectionUtil e possivel fazer uso de reflexao. Retornar o valor de um determinado atributo e um exemplo de metodo dessa classe.
+
+Para uso dessas classes em um projeto, deve-se apenas adicionar o arquivo Utils.jar ao seu classpath.
+
+
+Especificacoes
+--------------
+JPA 2.0
+
+
+Licenca
+-------
+Veja o arquivo LICENSE.
+
+
+Autores 
+-------
+Benedito Barbosa Ribeiro Neto
+Christian Linhares Peixoto
+Mauricio da Silva Marinho
+
+
+Contato
+-------
+org.wave@gmail.com
+
